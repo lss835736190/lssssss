@@ -27,7 +27,7 @@
     return data;
 }
 
-#pragma mark 将数据解档为对象
+#pragma mark 将数据解档为对象   fecefcefas
 + (instancetype)objOfUnarchiverObjectWithData:(NSData *)data withKey:(NSString *)key {
     
     // 将数据与解档器绑定
